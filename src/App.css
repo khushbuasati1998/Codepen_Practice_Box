@@ -1,6 +1,12 @@
-:root {
-    --primaryFont: 'Poppins', sans-serif;
-    /* --primaryFont: 'Montserrat', sans-serif; */
-    /* --primaryFont: 'Raleway', sans-serif; */
+.CodeMirror {
+  height: 340px !important;
+  color: '#000'
 }
 
+.CodeMirror-gutters {
+  background: #1d1e22 !important;
+}
+
+.CodeMirror-scroll {
+  background: #1d1e22 !important;
+}

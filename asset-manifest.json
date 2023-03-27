@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Codepen_Practice_Box/static/css/main.8a07b4ba.css",
+    "main.js": "/Codepen_Practice_Box/static/js/main.b3c829f3.js",
+    "static/js/787.8f09072a.chunk.js": "/Codepen_Practice_Box/static/js/787.8f09072a.chunk.js",
+    "static/media/logo.png": "/Codepen_Practice_Box/static/media/logo.6d908a91ce2e06fb54f7.png",
+    "index.html": "/Codepen_Practice_Box/index.html",
+    "main.8a07b4ba.css.map": "/Codepen_Practice_Box/static/css/main.8a07b4ba.css.map",
+    "main.b3c829f3.js.map": "/Codepen_Practice_Box/static/js/main.b3c829f3.js.map",
+    "787.8f09072a.chunk.js.map": "/Codepen_Practice_Box/static/js/787.8f09072a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a07b4ba.css",
+    "static/js/main.b3c829f3.js"
+  ]
+}
